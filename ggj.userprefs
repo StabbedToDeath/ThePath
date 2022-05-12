@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ResultStars.cs">
+    <Files>
+      <File FileName="Assets\Scripts\StartPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResultStars.cs" Line="21" Column="29" />
+      <File FileName="Assets\Scripts\Collide.cs" Line="40" Column="6" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="18" Column="18" />
+      <File FileName="Assets\Scripts\LineCreator.cs" Line="7" Column="16" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\ObstacleMovement.cs" Line="32" Column="37" />
+      <File FileName="Assets\Scripts\ParticleDestroying.cs" Line="17" Column="6" />
+      <File FileName="Assets\Scripts\ParticleSpawn.cs" Line="17" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
